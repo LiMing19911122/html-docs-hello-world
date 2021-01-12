@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0e4d1c"],{"929f":function(t,e,s){"use strict";s.r(e);var r=s("7a23");function o(t,e,s,o,n,a){return Object(r["x"])(),Object(r["f"])("div")}var n={created(){const t=this.utils.getUrlKey("code"),e=this.$route.params.routerPath;t&&this.http.get("wx/getAccessToken",{code:t},t=>{sessionStorage.setItem("token",t.data.token),sessionStorage.setItem("user",JSON.stringify(t.data)),this.$router.push("/"+e)})}};n.render=o;e["default"]=n}}]);
+//# sourceMappingURL=chunk-2d0e4d1c.831d4bd5.js.map

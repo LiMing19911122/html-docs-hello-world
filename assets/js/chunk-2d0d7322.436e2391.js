@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0d7322"],{"767d":function(t,e,n){"use strict";n.r(e);var i=n("7a23");function c(t,e,n,c,u,s){const o=Object(i["D"])("van-cell");return Object(i["x"])(),Object(i["f"])("div",null,[Object(i["i"])(o,{title:"登录授权","is-link":"",onClick:e[1]||(e[1]=t=>s.auth())}),Object(i["i"])(o,{title:"微信支付","is-link":"",to:"wxpay"})])}var u={methods:{auth(){this.$router.push("user")}}};u.render=c;e["default"]=u}}]);
+//# sourceMappingURL=chunk-2d0d7322.436e2391.js.map
